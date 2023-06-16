@@ -7,4 +7,4 @@ sudo apt-get install cgpt
 sudo figlet -c "SUBSCRIBE TO"
 sudo figlet -c TheLinuxGURUS
 sudo echo https://www.youtube.com/c/TheLinuxGurus
-sudo bash chromeos-install.sh -src rammus_recovery.bin -dst /dev/sda
+sudo bash chromeos-install.sh -src zork_recovery.bin -dst /dev/sda
